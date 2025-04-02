@@ -1,0 +1,294 @@
+Outlet 2010001 56 - Item 101001 - Rice, quality no.1 White, Phaka kanhey, Battambang 1kg........201010001
+Outlet 2010001 56 - Item 101101 - Rice, quality no.2 White, Neang-Menh, Battambang  1kg.........201010002
+Outlet 2010001 56 - Item 101201 - Glutinous rice, quality no.1, White, Khmer 1kg................201010003
+Outlet 2010002 35 - Item 101001 - Rice, quality no.1 White, Phaka kanhey, Battambang 1kg........201010004
+Outlet 2010002 35 - Item 101101 - Rice, quality no.2 White, Neang-Menh, Battambang  1kg.........201010005
+Outlet 2010002 35 - Item 101201 - Glutinous rice, quality no.1, White, Khmer 1kg................201010006
+Outlet 2010003 30 - Item 101001 - Rice, quality no.1 White, Phaka kanhey, Battambang 1kg........201010007
+Outlet 2010003 30 - Item 101101 - Rice, quality no.2 White, Neang-Menh, Battambang  1kg.........201010008
+Outlet 2010003 30 - Item 101201 - Glutinous rice, quality no.1, White, Khmer 1kg................201010009
+Outlet 2010004 26 - Item 101001 - Rice, quality no.1 White, Phaka kanhey, Battambang 1kg........201010010
+Outlet 2010004 26 - Item 101101 - Rice, quality no.2 White, Neang-Menh, Battambang  1kg.........201010011
+Outlet 2010004 26 - Item 101201 - Glutinous rice, quality no.1, White, Khmer 1kg................201010012
+Outlet 2010005 Phal Lynea - Item 102001 - Whole grain maize, Red, Dried, Local 1kg..............201010013
+Outlet 2010006 Kim Sary - Item 102001 - Whole grain maize, Red, Dried, Local 1kg................201010014
+Outlet 2010007 Chek Cheng - Item 102001 - Whole grain maize, Red, Dried, Local 1kg..............201010015
+Outlet 2010008 E Soeung - Item 102001 - Whole grain maize, Red, Dried, Local 1kg................201010016
+Outlet 2010009 E Sheak - Item 103001 - Bread (Pnum pan) 30cm, Khmer 1Piece......................201010017
+Outlet 2010010 Shae Heang - Item 103001 - Bread (Pnum pan) 30cm, Khmer 1Piece...................201010018
+Outlet 2010011 Srey Mhap - Item 103001 - Bread (Pnum pan) 30cm, Khmer 1Piece....................201010019
+Outlet 2010012 Saov Dy - Item 103001 - Bread (Pnum pan) 30cm, Khmer 1Piece......................201010020
+Outlet 2010013 Nhak Ean - Item 105001 - Fermented rice noodles, Coil, Khmer 1kg.................201010021
+Outlet 2010014 San Chrep - Item 105001 - Fermented rice noodles, Coil, Khmer 1kg................201010022
+Outlet 2010015 Sok Phy - Item 105001 - Fermented rice noodles, Coil, Khmer 1kg..................201010023
+Outlet 2010016 Chany - Item 105001 - Fermented rice noodles, Coil, Khmer 1kg....................201010024
+Outlet 2010017 400 - Item 105101 - White rice, Fiber type,  Khmer 1kg...........................201010025
+Outlet 2010017 400 - Item 105301 - Dried noodles, long size, Yellow, Khmer 1kg..................201010026
+Outlet 2010018 405 - Item 105101 - White rice, Fiber type,  Khmer 1kg...........................201010027
+Outlet 2010018 405 - Item 105301 - Dried noodles, long size, Yellow, Khmer 1kg..................201010028
+Outlet 2010019 445 - Item 105101 - White rice, Fiber type,  Khmer 1kg...........................201010029
+Outlet 2010019 445 - Item 105301 - Dried noodles, long size, Yellow, Khmer 1kg..................201010030
+Outlet 2010020 455 - Item 105101 - White rice, Fiber type,  Khmer 1kg...........................201010031
+Outlet 2010020 455 - Item 105301 - Dried noodles, long size, Yellow, Khmer 1kg..................201010032
+Outlet 2010021 4 - Item 105201 - Yellow noodles, 60grams-pack, Mama,Thai 1Pack..................201010033
+Outlet 2010021 4 - Item 121301 - Canned fish, (sardines) Three ladies, 250g, can, Thai 1can.....201010034
+Outlet 2010021 4 - Item 121401 - Dried shrimps, Medium-sized,Kampot 1kg.........................201010035
+Outlet 2010021 4 - Item 124001 - Condensed ( sweetened ) Alaska, 397g, can, Thai 1can...........201010036
+Outlet 2010021 4 - Item 126101 - Vegetable oil/soybean oil  2kg-container.......................201010037
+Outlet 2010021 4 - Item 127201 - Pork fat 1 Kg..................................................201010038
+Outlet 2010021 4 - Item 131501 - Garlic, medium, Vietnam 1kg....................................201010039
+Outlet 2010021 4 - Item 133401 - Peanuts, medium, no shell, Cambodian 1kg.......................201010040
+Outlet 2010021 4 - Item 142001 - Green gram 1kg.................................................201010041
+Outlet 2010021 4 - Item 142601 - Soybean, dried, Local 1kg......................................201010042
+Outlet 2010021 4 - Item 145001 - Granulated sugar, ( refined ) white, No.1, Thai 1kg............201010043
+Outlet 2010021 4 - Item 145101 - Brown Sugar, Cambodian 1kg.....................................201010044
+Outlet 2010021 4 - Item 149001 - Soy sauce Cow, Cambodian 0.5liter/bottle.......................201010045
+Outlet 2010021 4 - Item 149101 - Fish sauce No.1, Kampot  750 ml/bottle.........................201010046
+Outlet 2010021 4 - Item 151001 - Salt, Powder, white 1kg........................................201010047
+Outlet 2010021 4 - Item 151201 - Ground black pepper 1kg........................................201010048
+Outlet 2010021 4 - Item 151401 - Monosodium glutamate, seasoning Spoon,Thai 0.5kg/pack..........201010049
+Outlet 2010022 135 - Item 105201 - Yellow noodles, 60grams-pack, Mama,Thai 1Pack................201010050
+Outlet 2010022 135 - Item 121301 - Canned fish, (sardines) Three ladies, 250g, can, Thai 1can...201010051
+Outlet 2010022 135 - Item 121401 - Dried shrimps, Medium-sized,Kampot 1kg.......................201010052
+Outlet 2010022 135 - Item 124001 - Condensed ( sweetened ) Alaska, 397g, can, Thai 1can.........201010053
+Outlet 2010022 135 - Item 126101 - Vegetable oil/soybean oil  2kg-container.....................201010054
+Outlet 2010022 135 - Item 127201 - Pork fat 1 Kg................................................201010055
+Outlet 2010022 135 - Item 131501 - Garlic, medium, Vietnam 1kg..................................201010056
+Outlet 2010022 135 - Item 133401 - Peanuts, medium, no shell, Cambodian 1kg.....................201010057
+Outlet 2010022 135 - Item 142001 - Green gram 1kg...............................................201010058
+Outlet 2010022 135 - Item 142601 - Soybean, dried, Local 1kg....................................201010059
+Outlet 2010022 135 - Item 145001 - Granulated sugar, ( refined ) white, No.1, Thai 1kg..........201010060
+Outlet 2010022 135 - Item 145101 - Brown Sugar, Cambodian 1kg...................................201010061
+Outlet 2010022 135 - Item 149001 - Soy sauce Cow, Cambodian 0.5liter/bottle.....................201010062
+Outlet 2010022 135 - Item 149101 - Fish sauce No.1, Kampot  750 ml/bottle.......................201010063
+Outlet 2010022 135 - Item 151001 - Salt, Powder, white 1kg......................................201010064
+Outlet 2010022 135 - Item 151201 - Ground black pepper 1kg......................................201010065
+Outlet 2010022 135 - Item 151401 - Monosodium glutamate, seasoning Spoon,Thai 0.5kg/pack........201010066
+Outlet 2010023 267 - Item 105201 - Yellow noodles, 60grams-pack, Mama,Thai 1Pack................201010067
+Outlet 2010023 267 - Item 121301 - Canned fish, (sardines) Three ladies, 250g, can, Thai 1can...201010068
+Outlet 2010023 267 - Item 121401 - Dried shrimps, Medium-sized,Kampot 1kg.......................201010069
+Outlet 2010023 267 - Item 124001 - Condensed ( sweetened ) Alaska, 397g, can, Thai 1can.........201010070
+Outlet 2010023 267 - Item 126101 - Vegetable oil/soybean oil  2kg-container.....................201010071
+Outlet 2010023 267 - Item 127201 - Pork fat 1 Kg................................................201010072
+Outlet 2010023 267 - Item 131501 - Garlic, medium, Vietnam 1kg..................................201010073
+Outlet 2010023 267 - Item 133401 - Peanuts, medium, no shell, Cambodian 1kg.....................201010074
+Outlet 2010023 267 - Item 142001 - Green gram 1kg...............................................201010075
+Outlet 2010023 267 - Item 142601 - Soybean, dried, Local 1kg....................................201010076
+Outlet 2010023 267 - Item 145001 - Granulated sugar, ( refined ) white, No.1, Thai 1kg..........201010077
+Outlet 2010023 267 - Item 145101 - Brown Sugar, Cambodian 1kg...................................201010078
+Outlet 2010023 267 - Item 149001 - Soy sauce Cow, Cambodian 0.5liter/bottle.....................201010079
+Outlet 2010023 267 - Item 149101 - Fish sauce No.1, Kampot  750 ml/bottle.......................201010080
+Outlet 2010023 267 - Item 151001 - Salt, Powder, white 1kg......................................201010081
+Outlet 2010023 267 - Item 151201 - Ground black pepper 1kg......................................201010082
+Outlet 2010023 267 - Item 151401 - Monosodium glutamate, seasoning Spoon,Thai 0.5kg/pack........201010083
+Outlet 2010024 269 - Item 105201 - Yellow noodles, 60grams-pack, Mama,Thai 1Pack................201010084
+Outlet 2010024 269 - Item 121301 - Canned fish, (sardines) Three ladies, 250g, can, Thai 1can...201010085
+Outlet 2010024 269 - Item 121401 - Dried shrimps, Medium-sized,Kampot 1kg.......................201010086
+Outlet 2010024 269 - Item 124001 - Condensed ( sweetened ) Alaska, 397g, can, Thai 1can.........201010087
+Outlet 2010024 269 - Item 126101 - Vegetable oil/soybean oil  2kg-container.....................201010088
+Outlet 2010024 269 - Item 127201 - Pork fat 1 Kg................................................201010089
+Outlet 2010024 269 - Item 131501 - Garlic, medium, Vietnam 1kg..................................201010090
+Outlet 2010024 269 - Item 133401 - Peanuts, medium, no shell, Cambodian 1kg.....................201010091
+Outlet 2010024 269 - Item 142001 - Green gram 1kg...............................................201010092
+Outlet 2010024 269 - Item 142601 - Soybean, dried, Local 1kg....................................201010093
+Outlet 2010024 269 - Item 145001 - Granulated sugar, ( refined ) white, No.1, Thai 1kg..........201010094
+Outlet 2010024 269 - Item 145101 - Brown Sugar, Cambodian 1kg...................................201010095
+Outlet 2010024 269 - Item 149001 - Soy sauce Cow, Cambodian 0.5liter/bottle.....................201010096
+Outlet 2010024 269 - Item 149101 - Fish sauce No.1, Kampot  750 ml/bottle.......................201010097
+Outlet 2010024 269 - Item 151001 - Salt, Powder, white 1kg......................................201010098
+Outlet 2010024 269 - Item 151201 - Ground black pepper 1kg......................................201010099
+Outlet 2010024 269 - Item 151401 - Monosodium glutamate, seasoning Spoon,Thai 0.5kg/pack........201010100
+Outlet 2010025 425 - Item 142301 - Bean sprouts, Short 1kg......................................201010101
+Outlet 2010026 445 - Item 142301 - Bean sprouts, Short 1kg......................................201010102
+Outlet 2010027 450 - Item 142301 - Bean sprouts, Short 1kg......................................201010103
+Outlet 2010028 455 - Item 142301 - Bean sprouts, Short 1kg......................................201010104
+Outlet 2010029 83 - Item 106101 - Biscuits, Assorted, 800g, container, Thai 1container..........201010105
+Outlet 2010029 83 - Item 124201 - Powdered ( baby) Dumex,  Singapore 1kg-can....................201010106
+Outlet 2010029 83 - Item 147001 - Hard candies, Fruit, Thai 300g/pack...........................201010107
+Outlet 2010029 83 - Item 201001 - Instant coffee, Nescafe, Thai 200g botlle.....................201010108
+Outlet 2010030 45 - Item 106101 - Biscuits, Assorted, 800g, container, Thai 1container..........201010109
+Outlet 2010030 45 - Item 124201 - Powdered ( baby) Dumex,  Singapore 1kg-can....................201010110
+Outlet 2010030 45 - Item 147001 - Hard candies, Fruit, Thai 300g/pack...........................201010111
+Outlet 2010030 45 - Item 201001 - Instant coffee, Nescafe, Thai 200g botlle.....................201010112
+Outlet 2010030 45 - Item 203001 - Tea, leaves/ dust , Vietnam 1kg...............................201010113
+Outlet 2010030 45 - Item 204001 - Canned soft drinks ( Coke ) , Thai 330 ml can.................201010114
+Outlet 2010030 45 - Item 205001 - Fruit juice ( orange ), Pokka, Singapore 240ml can............201010115
+Outlet 2010031 35 - Item 106101 - Biscuits, Assorted, 800g, container, Thai 1container..........201010116
+Outlet 2010031 35 - Item 124201 - Powdered ( baby) Dumex,  Singapore 1kg-can....................201010117
+Outlet 2010031 35 - Item 147001 - Hard candies, Fruit, Thai 300g/pack...........................201010118
+Outlet 2010031 35 - Item 201001 - Instant coffee, Nescafe, Thai 200g botlle.....................201010119
+Outlet 2010031 35 - Item 203001 - Tea, leaves/ dust , Vietnam 1kg...............................201010120
+Outlet 2010031 35 - Item 204001 - Canned soft drinks ( Coke ) , Thai 330 ml can.................201010121
+Outlet 2010031 35 - Item 205001 - Fruit juice ( orange ), Pokka, Singapore 240ml can............201010122
+Outlet 2010032 109 - Item 106101 - Biscuits, Assorted, 800g, container, Thai 1container.........201010123
+Outlet 2010032 109 - Item 124201 - Powdered ( baby) Dumex,  Singapore 1kg-can...................201010124
+Outlet 2010032 109 - Item 147001 - Hard candies, Fruit, Thai 300g/pack..........................201010125
+Outlet 2010032 109 - Item 201001 - Instant coffee, Nescafe, Thai 200g botlle....................201010126
+Outlet 2010032 109 - Item 203001 - Tea, leaves/ dust , Vietnam 1kg..............................201010127
+Outlet 2010032 109 - Item 204001 - Canned soft drinks ( Coke ) , Thai 330 ml can................201010128
+Outlet 2010032 109 - Item 205001 - Fruit juice ( orange ), Pokka, Singapore 240ml can...........201010129
+Outlet 2010033 E Neang - Item 107001 - Rice cakes, medium, Khmer 1Kg............................201010130
+Outlet 2010034 Chae Mean - Item 107001 - Rice cakes, medium, Khmer 1Kg..........................201010131
+Outlet 2010035 Chae Shean - Item 107001 - Rice cakes, medium, Khmer 1Kg.........................201010132
+Outlet 2010036 Chae Chamroeun - Item 107001 - Rice cakes, medium, Khmer 1Kg.....................201010133
+Outlet 2010037 Kolabsor - Item 107101 - Cakes (Pao), medium siz, Khmer 1Piece...................201010134
+Outlet 2010038 Alymona - Item 107101 - Cakes (Pao), medium siz, Khmer 1Piece....................201010135
+Outlet 2010039 Chou Lay - Item 107101 - Cakes (Pao), medium siz, Khmer 1Piece...................201010136
+Outlet 2010040 Tai Ly - Item 107101 - Cakes (Pao), medium siz, Khmer 1Piece.....................201010137
+Outlet 2010041 487 - Item 109001 - Pork, without fat, Pure meat 1kg.............................201010138
+Outlet 2010041 487 - Item 109101 - Pork, with fat, Khmer 1kg....................................201010139
+Outlet 2010041 487 - Item 109102 - Pork rib, Khmer 1kg..........................................201010140
+Outlet 2010042 485 - Item 109001 - Pork, without fat, Pure meat 1kg.............................201010141
+Outlet 2010042 485 - Item 109101 - Pork, with fat, Khmer 1kg....................................201010142
+Outlet 2010042 485 - Item 109102 - Pork rib, Khmer 1kg..........................................201010143
+Outlet 2010043 484 - Item 109001 - Pork, without fat, Pure meat 1kg....................................201010144
+Outlet 2010043 484 - Item 109101 - Pork, with fat, Khmer 1kg...........................................201010145
+Outlet 2010043 484 - Item 109102 - Pork rib, Khmer 1kg.................................................201010146
+Outlet 2010044 486 - Item 109001 - Pork, without fat, Pure meat 1kg....................................201010147
+Outlet 2010044 486 - Item 109101 - Pork, with fat, Khmer 1kg...........................................201010148
+Outlet 2010044 486 - Item 109102 - Pork rib, Khmer 1kg.................................................201010149
+Outlet 2010045 31 - Item 110001 - Fresh Beef, No.1 1kg.................................................201010150
+Outlet 2010046 314 - Item 110001 - Fresh Beef, No.1 1kg................................................201010151
+Outlet 2010047 437 - Item 110001 - Fresh Beef, No.1 1kg................................................201010152
+Outlet 2010048 E Sheas - Item 110001 - Fresh Beef, No.1 1kg............................................201010153
+Outlet 2010049 55 - Item 113001 - Fresh Chicken,  No1, plucked 1kg.....................................201010154
+Outlet 2010049 55 - Item 114001 - Fresh duck, Plucked 1kg..............................................201010155
+Outlet 2010050 54 - Item 113001 - Fresh Chicken,  No1, plucked 1kg.....................................201010156
+Outlet 2010050 54 - Item 114001 - Fresh duck, Plucked 1kg..............................................201010157
+Outlet 2010051 53 - Item 113001 - Fresh Chicken,  No1, plucked 1kg.....................................201010158
+Outlet 2010051 53 - Item 114001 - Fresh duck, Plucked 1kg..............................................201010159
+Outlet 2010052 52 - Item 113001 - Fresh Chicken,  No1, plucked 1kg.....................................201010160
+Outlet 2010052 52 - Item 114001 - Fresh duck, Plucked 1kg..............................................201010161
+Outlet 2010053 Thang Sha - Item 117001 - Roasted pork, Sasiv 1kg.......................................201010162
+Outlet 2010053 Thang Sha - Item 117101 - Roasted/Fried chicken 1kg.....................................201010163
+Outlet 2010054 Sok Huo - Item 117001 - Roasted pork, Sasiv 1kg.........................................201010164
+Outlet 2010054 Sok Huo - Item 117101 - Roasted/Fried chicken 1kg.......................................201010165
+Outlet 2010055 Khem Phea - Item 117001 - Roasted pork, Sasiv 1kg.......................................201010166
+Outlet 2010055 Khem Phea - Item 117101 - Roasted/Fried chicken 1kg.....................................201010167
+Outlet 2010056 Sreynga - Item 117001 - Roasted pork, Sasiv 1kg.........................................201010168
+Outlet 2010056 Sreynga - Item 117101 - Roasted/Fried chicken 1kg.......................................201010169
+Outlet 2010057 Phang SoPhy - Item 118001 - Mud fish, ( large ) 1 fish =1kg 1kg.........................201010170
+Outlet 2010057 Phang SoPhy - Item 118101 - Mud fish,  (small ) 3 pieces of fish =1kg 1kg...............201010171
+Outlet 2010057 Phang SoPhy - Item 118301 - Cat fish, Andeng fish 1kg...................................201010172
+Outlet 2010057 Phang SoPhy - Item 118601 - Other fresh fish 1kg........................................201010173
+Outlet 2010058 Si Nuon - Item 118001 - Mud fish, ( large ) 1 fish =1kg 1kg.............................201010174
+Outlet 2010058 Si Nuon - Item 118101 - Mud fish,  (small ) 3 pieces of fish =1kg 1kg...................201010175
+Outlet 2010058 Si Nuon - Item 118301 - Cat fish, Andeng fish 1kg.......................................201010176
+Outlet 2010058 Si Nuon - Item 118601 - Other fresh fish 1kg............................................201010177
+Outlet 2010059 Ly Huo - Item 118001 - Mud fish, ( large ) 1 fish =1kg 1kg..............................201010178
+Outlet 2010059 Ly Huo - Item 118101 - Mud fish,  (small ) 3 pieces of fish =1kg 1kg....................201010179
+Outlet 2010059 Ly Huo - Item 118301 - Cat fish, Andeng fish 1kg........................................201010180
+Outlet 2010059 Ly Huo - Item 118601 - Other fresh fish 1kg.............................................201010181
+Outlet 2010060 Srey ngha - Item 118001 - Mud fish, ( large ) 1 fish =1kg 1kg...........................201010182
+Outlet 2010060 Srey ngha - Item 118101 - Mud fish,  (small ) 3 pieces of fish =1kg 1kg.................201010183
+Outlet 2010060 Srey ngha - Item 118301 - Cat fish, Andeng fish 1kg.....................................201010184
+Outlet 2010060 Srey ngha - Item 118601 - Other fresh fish 1kg..........................................201010185
+Outlet 2010061 Mhanry - Item 118501 - Sea fish, small, Plathou fish, Kampot 1kg........................201010186
+Outlet 2010062 Lyna - Item 118501 - Sea fish, small, Plathou fish, Kampot 1kg..........................201010187
+Outlet 2010063 Rashy - Item 118501 - Sea fish, small, Plathou fish, Kampot 1kg.........................201010188
+Outlet 2010064 Chae Mey - Item 118501 - Sea fish, small, Plathou fish, Kampot 1kg......................201010189
+Outlet 2010065 Chinly - Item 120001 - Shrimps, Medium size,Kampot 1kg..................................201010190
+Outlet 2010065 Chinly - Item 120101 - Crabs, Kdam Ses, sea crab, Kampot 1kg............................201010191
+Outlet 2010066 Nuon Sreypov - Item 120001 - Shrimps, Medium size,Kampot 1kg............................201010192
+Outlet 2010066 Nuon Sreypov - Item 120101 - Crabs, Kdam Ses, sea crab, Kampot 1kg......................201010193
+Outlet 2010067 Chae Ny - Item 120001 - Shrimps, Medium size,Kampot 1kg.................................201010194
+Outlet 2010067 Chae Ny - Item 120101 - Crabs, Kdam Ses, sea crab, Kampot 1kg...........................201010195
+Outlet 2010068 Chae Sheang - Item 120001 - Shrimps, Medium size,Kampot 1kg.............................201010196
+Outlet 2010068 Chae Sheang - Item 120101 - Crabs, Kdam Ses, sea crab, Kampot 1kg.......................201010197
+Outlet 2010069 2 - Item 121001 - Smoked fish, Riel fish, small Kras/50gm...............................201010198
+Outlet 2010069 2 - Item 121101 - cheese fish 1kg.......................................................201010199
+Outlet 2010069 2 - Item 121201 - Dried fish, Chhdor fish,big 1kg.......................................201010200
+Outlet 2010070 5 - Item 121001 - Smoked fish, Riel fish, small Kras/50gm...............................201010201
+Outlet 2010070 5 - Item 121101 - cheese fish 1kg.......................................................201010202
+Outlet 2010070 5 - Item 121201 - Dried fish, Chhdor fish,big 1kg.......................................201010203
+Outlet 2010071 502 - Item 121001 - Smoked fish, Riel fish, small Kras/50gm.............................201010204
+Outlet 2010071 502 - Item 121101 - cheese fish 1kg.....................................................201010205
+Outlet 2010071 502 - Item 121201 - Dried fish, Chhdor fish,big 1kg.....................................201010206
+Outlet 2010072 508 - Item 121001 - Smoked fish, Riel fish, small Kras/50gm.............................201010207
+Outlet 2010072 508 - Item 121101 - cheese fish 1kg.....................................................201010208
+Outlet 2010072 508 - Item 121201 - Dried fish, Chhdor fish,big 1kg.....................................201010209
+Outlet 2010073 3 - Item 122001 - Chicken eggs, Fresh, medium 1Piece....................................201010210
+Outlet 2010073 3 - Item 122101 - Duck’s eggs, Fresh, medium 1Piece.....................................201010211
+Outlet 2010073 3 - Item 123101 - Fermented eggs 1Piece.................................................201010212
+Outlet 2010074 6 - Item 122001 - Chicken eggs, Fresh, medium 1Piece....................................201010213
+Outlet 2010074 6 - Item 122101 - Duck’s eggs, Fresh, medium 1Piece.....................................201010214
+Outlet 2010074 6 - Item 123101 - Fermented eggs 1Piece.................................................201010215
+Outlet 2010075 4 - Item 122001 - Chicken eggs, Fresh, medium 1Piece....................................201010216
+Outlet 2010075 4 - Item 122101 - Duck’s eggs, Fresh, medium 1Piece.....................................201010217
+Outlet 2010075 4 - Item 123101 - Fermented eggs 1Piece.................................................201010218
+Outlet 2010076 499 - Item 122001 - Chicken eggs, Fresh, medium 1Piece..................................201010219
+Outlet 2010076 499 - Item 122101 - Duck’s eggs, Fresh, medium 1Piece...................................201010220
+Outlet 2010076 499 - Item 123101 - Fermented eggs 1Piece...............................................201010221
+Outlet 2010077 Chae Mhap - Item 148101 - Ice cream gallon..............................................201010222
+Outlet 2010078 Yhey Pov - Item 128301 - Pineapple, ripe,Vietnam 1 piece................................201010223
+Outlet 2010078 Yhey Pov - Item 128701 - Lime ripe, medium, Khmer 1 piece...............................201010224
+Outlet 2010078 Yhey Pov - Item 132201 - Tamarind, dried with seed 1kg..................................201010225
+Outlet 2010078 Yhey Pov - Item 135001 - Trakun ( Watercress, marshcabbage) Good 1kg....................201010226
+Outlet 2010078 Yhey Pov - Item 135201 - Onion leaves søwkKUqay 1kg.....................................201010227
+Outlet 2010078 Yhey Pov - Item 135301 - Cabbage leaves 1kg.............................................201010228
+Outlet 2010078 Yhey Pov - Item 135401 - Lettuce, spinach 1kg...........................................201010229
+Outlet 2010078 Yhey Pov - Item 135501 - Cauliflower White 1kg..........................................201010230
+Outlet 2010078 Yhey Pov - Item 135601 - Others ( mustard leaves coriander leaves, etc), Khmer  bunch...201010231
+Outlet 2010078 Yhey Pov - Item 137001 - Tomatoes, medium size, ripe 1kg................................201010232
+Outlet 2010078 Yhey Pov - Item 137101 - Bell peppers, sweet Green, big 1kg.............................201010233
+Outlet 2010078 Yhey Pov - Item 137201 - Ridge gourd, nenag Green, 30cm long 1kg........................201010234
+Outlet 2010078 Yhey Pov - Item 137301 - Bitter gourd, Green, medium size 1kg...........................201010235
+Outlet 2010078 Yhey Pov - Item 137501 - Cucumbers, Green,medium size 1kg...............................201010236
+Outlet 2010078 Yhey Pov - Item 137701 - Brinjals/ eggplants 1kg........................................201010237
+Outlet 2010078 Yhey Pov - Item 137801 - Others ( banana blossoms ) 1kg.................................201010238
+Outlet 2010078 Yhey Pov - Item 139001 - Onions, White, Medium size 1kg.................................201010239
+Outlet 2010078 Yhey Pov - Item 139401 - White gourd 1kg................................................201010240
+Outlet 2010078 Yhey Pov - Item 140001 - Potatoes, Medium 1kg...........................................201010241
+Outlet 2010078 Yhey Pov - Item 140101 - Sweet potatoes Red, medium 1kg.................................201010242
+Outlet 2010078 Yhey Pov - Item 140301 - Traov, Medium 1kg..............................................201010243
+Outlet 2010078 Yhey Pov - Item 142401 - Long green beans 1kg...........................................201010244
+Outlet 2010078 Yhey Pov - Item 142501 - Short green beans 1kg..........................................201010245
+Outlet 2010078 Yhey Pov - Item 151501 - Ginger, medium  1kg............................................201010246
+Outlet 2010079 Chae Tha - Item 128301 - Pineapple, ripe,Vietnam 1 piece................................201010247
+Outlet 2010079 Chae Tha - Item 128701 - Lime ripe, medium, Khmer 1 piece...............................201010248
+Outlet 2010079 Chae Tha - Item 132201 - Tamarind, dried with seed 1kg..................................201010249
+Outlet 2010079 Chae Tha - Item 135001 - Trakun ( Watercress, marshcabbage) Good 1kg....................201010250
+Outlet 2010079 Chae Tha - Item 135201 - Onion leaves søwkKUqay 1kg.....................................201010251
+Outlet 2010079 Chae Tha - Item 135301 - Cabbage leaves 1kg.............................................201010252
+Outlet 2010079 Chae Tha - Item 135401 - Lettuce, spinach 1kg...........................................201010253
+Outlet 2010079 Chae Tha - Item 135501 - Cauliflower White 1kg..........................................201010254
+Outlet 2010079 Chae Tha - Item 135601 - Others ( mustard leaves coriander leaves, etc), Khmer  bunch...201010255
+Outlet 2010079 Chae Tha - Item 137001 - Tomatoes, medium size, ripe 1kg................................201010256
+Outlet 2010079 Chae Tha - Item 137101 - Bell peppers, sweet Green, big 1kg.............................201010257
+Outlet 2010079 Chae Tha - Item 137201 - Ridge gourd, nenag Green, 30cm long 1kg........................201010258
+Outlet 2010079 Chae Tha - Item 137301 - Bitter gourd, Green, medium size 1kg...........................201010259
+Outlet 2010079 Chae Tha - Item 137501 - Cucumbers, Green,medium size 1kg...............................201010260
+Outlet 2010079 Chae Tha - Item 137701 - Brinjals/ eggplants 1kg........................................201010261
+Outlet 2010079 Chae Tha - Item 137801 - Others ( banana blossoms ) 1kg.................................201010262
+Outlet 2010079 Chae Tha - Item 139001 - Onions, White, Medium size 1kg.................................201010263
+Outlet 2010079 Chae Tha - Item 139401 - White gourd 1kg................................................201010264
+Outlet 2010079 Chae Tha - Item 140001 - Potatoes, Medium 1kg...........................................201010265
+Outlet 2010079 Chae Tha - Item 140101 - Sweet potatoes Red, medium 1kg.................................201010266
+Outlet 2010079 Chae Tha - Item 140301 - Traov, Medium 1kg..............................................201010267
+Outlet 2010079 Chae Tha - Item 142401 - Long green beans 1kg...........................................201010268
+Outlet 2010079 Chae Tha - Item 142501 - Short green beans 1kg..........................................201010269
+Outlet 2010079 Chae Tha - Item 151501 - Ginger, medium  1kg............................................201010270
+Outlet 2010080 Chae aet - Item 128301 - Pineapple, ripe,Vietnam 1 piece................................201010271
+Outlet 2010080 Chae aet - Item 128701 - Lime ripe, medium, Khmer 1 piece...............................201010272
+Outlet 2010080 Chae aet - Item 132201 - Tamarind, dried with seed 1kg..................................201010273
+Outlet 2010080 Chae aet - Item 135001 - Trakun ( Watercress, marshcabbage) Good 1kg....................201010274
+Outlet 2010080 Chae aet - Item 135201 - Onion leaves søwkKUqay 1kg.....................................201010275
+Outlet 2010080 Chae aet - Item 135301 - Cabbage leaves 1kg.............................................201010276
+Outlet 2010080 Chae aet - Item 135401 - Lettuce, spinach 1kg...........................................201010277
+Outlet 2010080 Chae aet - Item 135501 - Cauliflower White 1kg..........................................201010278
+Outlet 2010080 Chae aet - Item 135601 - Others ( mustard leaves coriander leaves, etc), Khmer  bunch...201010279
+Outlet 2010080 Chae aet - Item 137001 - Tomatoes, medium size, ripe 1kg................................201010280
+Outlet 2010080 Chae aet - Item 137101 - Bell peppers, sweet Green, big 1kg.............................201010281
+Outlet 2010080 Chae aet - Item 137201 - Ridge gourd, nenag Green, 30cm long 1kg........................201010282
+Outlet 2010080 Chae aet - Item 137301 - Bitter gourd, Green, medium size 1kg...........................201010283
+Outlet 2010080 Chae aet - Item 137501 - Cucumbers, Green,medium size 1kg...............................201010284
+Outlet 2010080 Chae aet - Item 137701 - Brinjals/ eggplants 1kg........................................201010285
+Outlet 2010080 Chae aet - Item 137801 - Others ( banana blossoms ) 1kg.................................201010286
+Outlet 2010080 Chae aet - Item 139001 - Onions, White, Medium size 1kg.................................201010287
+Outlet 2010080 Chae aet - Item 139401 - White gourd 1kg................................................201010288
+Outlet 2010080 Chae aet - Item 140001 - Potatoes, Medium 1kg...........................................201010289
+Outlet 2010080 Chae aet - Item 140101 - Sweet potatoes Red, medium 1kg.................................201010290
+Outlet 2010080 Chae aet - Item 140301 - Traov, Medium 1kg..............................................201010291
+Outlet 2010080 Chae aet - Item 142401 - Long green beans 1kg...........................................201010292
+Outlet 2010080 Chae aet - Item 142501 - Short green beans 1kg..........................................201010293
+Outlet 2010080 Chae aet - Item 151501 - Ginger, medium  1kg............................................201010294
